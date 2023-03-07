@@ -1,1 +1,1 @@
-# A project on authentication, NodeJS, MongoDB, Redis, pagination and background processing.
+# A project on Authentication, NodeJS, MongoDB, Redis, Pagination and Background Processing.
